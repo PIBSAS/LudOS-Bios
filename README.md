@@ -4,7 +4,7 @@
   The right and needed Bios for LudOS. 
 </p>
 <p align="center">
-<img src="https://raw.githubusercontent.com/Luciano2018/RetroPieBios/master/logov3.png" alt="Raspberry Pi Buenos Aires" width="400" height="500"><img src="https://github.com/Luciano2018/Argonone-Recalbox-Electron/blob/main/logocase.png" alt="Raspberry Pi Buenos Aires" width="400" height="500">
+<img src="https://raw.githubusercontent.com/Luciano2018/RetroPieBios/master/logov3.png" alt="Raspberry Pi Buenos Aires" width="400" height="500"><img src="https://github.com/Luciano2018/LudOS-Bios/blob/main/LudOS.png" alt="Raspberry Pi Buenos Aires" width="400" height="500">
 </p>
 
 # Instalacion fácil-Easy Install:
