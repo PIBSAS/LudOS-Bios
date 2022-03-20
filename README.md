@@ -1,4 +1,4 @@
-#                                  <h1 align="center"> LudOS-Bios 2022</h1>
+#                                  <h1 align="center"> LudOS Bios 2022</h1>
 <p align="center">
   Las Bios Correctas y necesarias para LudOS.
   The right and needed Bios for LudOS. 
@@ -11,10 +11,10 @@
 
 Conectammos LudOS a Wifi o Ethernet, nos fijamos su IP, activamos SSH e iniciamos sesión desde otro dispositivo:
 We need connect LudOS to Wifi or Ethernet, check the assigned IP, turn on SSH and login with other device:
-PC([Putty](https://www.putty.org/))
-Smartphone([ConnectBot](https://play.google.com/store/apps/details?id=org.connectbot&hl=es&gl=US)
-Iphone([Termius](https://apps.apple.com/pe/app/termius-ssh-client/id549039908))
-Raspberry Pi OS([Terminal](https://www.raspberrypi.com/documentation/computers/remote-access.html))
+- PC([Putty](https://www.putty.org/))
+- Smartphone([ConnectBot](https://play.google.com/store/apps/details?id=org.connectbot&hl=es&gl=US)
+- Iphone([Termius](https://apps.apple.com/pe/app/termius-ssh-client/id549039908))
+- Raspberry Pi OS([Terminal](https://www.raspberrypi.com/documentation/computers/remote-access.html))
 
 # Login:
 
