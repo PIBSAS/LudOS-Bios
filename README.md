@@ -22,13 +22,15 @@ User:`root`
 
 Password: `ludos`
 
-#Raspberry Pi:
+# Raspberry Pi:
+
 Type:
 ```
 curl -sSL https://raw.githubusercontent.com/Luciano2018/LudOS-Bios/blob/main/LudOS_Bios.sh | bash
 ```
 
-#PC:
+# PC:
+
 Type:
 ```
 curl -sSL https://raw.githubusercontent.com/Luciano2018/LudOS-Bios/blob/main/LudOS_Bios_PC.sh | bash
