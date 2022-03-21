@@ -365,7 +365,7 @@ echo "Making folders to put bios"
 echo
 mkdir "system/np2kai/"
 mkdir "system/Databases/"
-mkdit "system/Machines/"
+mkdir "system/Machines/"
 mkdir "system/Machines/COL - Bit Corporation Dina/"
 mkdir "system/Machines/COL – ColecoVision/"
 mkdir "system/Machines/COL - ColecoVision with Opcode Memory Extension/"
