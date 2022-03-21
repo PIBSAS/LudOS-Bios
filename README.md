@@ -35,6 +35,7 @@ Type:
 ```
 curl -sSL https://raw.githubusercontent.com/Luciano2018/LudOS-Bios/blob/main/LudOS_Bios_PC.sh | bash
 ```
+NOTE for PC Users, you can't just clone or download this repo like a zip file, because you will be missing 2 big bios needed for MelonDS, that are getting with the easy install Script from archive.org
 
 # Tutorial: Retroconsolas
 https://sites.google.com/view/raspberrypibuenosaires/retro-consolas
