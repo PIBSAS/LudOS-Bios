@@ -434,6 +434,7 @@ wget -c "https://github.com/Luciano2018/LudOS-Bios/blob/main/Databases/svidb.xml
 wget -c "https://github.com/Luciano2018/LudOS-Bios/raw/main/Machines.zip" -P "system/"
 unzip system/Machines.zip -d system/
 rm system/Machines.zip
+rm LudOS_Bios.sh
 echo "Finish, now rebooting"
 echo
 reboot
