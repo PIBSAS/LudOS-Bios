@@ -26,14 +26,14 @@ Password: `ludos`
 
 Type:
 ```
-curl -sSL https://raw.githubusercontent.com/Luciano2018/LudOS-Bios/blob/main/LudOS_Bios.sh | bash
+wget -c https://raw.githubusercontent.com/Luciano2018/LudOS-Bios/main/LudOS_Bios.sh && sh LudOS_Bios.sh
 ```
 
 # PC:
 
 Type:
 ```
-curl -sSL https://raw.githubusercontent.com/Luciano2018/LudOS-Bios/blob/main/LudOS_Bios_PC.sh | bash
+wget -c https://raw.githubusercontent.com/Luciano2018/LudOS-Bios/main/LudOS_Bios_PC.sh && sh LudOS_Bios_PC.sh
 ```
 NOTE for PC Users, you can't just clone or download this repo like a zip file, because you will be missing 2 big bios needed for MelonDS, that are getting with the easy install Script from archive.org
 
