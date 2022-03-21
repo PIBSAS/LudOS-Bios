@@ -22,11 +22,18 @@ User:`root`
 
 Password: `ludos`
 
+#Raspberry Pi:
 Type:
-
 ```
 curl -sSL https://raw.githubusercontent.com/Luciano2018/LudOS-Bios/blob/main/LudOS_Bios.sh | bash
 ```
+
+#PC:
+Type:
+```
+curl -sSL https://raw.githubusercontent.com/Luciano2018/LudOS-Bios/blob/main/LudOS_Bios_PC.sh | bash
+```
+
 # Tutorial: Retroconsolas
 https://sites.google.com/view/raspberrypibuenosaires/retro-consolas
 
