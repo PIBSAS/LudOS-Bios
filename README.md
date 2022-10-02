@@ -37,6 +37,15 @@ wget -c https://raw.githubusercontent.com/Luciano2018/LudOS-Bios/main/LudOS_Bios
 ```
 NOTE for PC Users, you can't just clone or download this repo like a zip file, because you will be missing 2 big bios needed for MelonDS, that are getting with the easy install Script from archive.org
 
+<h1 align="center"> Invite a Coffee</h1>
+</p>
+<p align="center">
+<a href="https://www.paypal.com/paypalme/RaspberryPiBsAs">
+<img src="https://raw.githubusercontent.com/Luciano2018/MiPiTV/master/Paypal_2014_logo.png" alt="Invite a Coffee" width="40" height="50">
+</a>
+</p>
+
+
 # Tutorial: Retroconsolas
 https://sites.google.com/view/raspberrypibuenosaires/retro-consolas
 
