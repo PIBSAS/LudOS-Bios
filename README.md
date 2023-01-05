@@ -7,6 +7,8 @@
 <img src="https://raw.githubusercontent.com/Luciano2018/RetroPieBios/master/logov3.png" alt="Raspberry Pi Buenos Aires" width="400" height="500"><img src="https://github.com/Luciano2018/LudOS-Bios/blob/main/LudOS.png" alt="Raspberry Pi Buenos Aires" width="400" height="500">
 </p>
 
+[![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_6.svg)](https://cafecito.app/raspberrypibsas)
+
 # Instalacion fácil-Easy Install:
 
 Conectammos LudOS a Wifi o Ethernet, nos fijamos su IP, activamos SSH e iniciamos sesión desde otro dispositivo:
