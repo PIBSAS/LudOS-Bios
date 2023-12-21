@@ -4,7 +4,7 @@
   The right and needed Bios for LudOS. 
 </p>
 <p align="center">
-<img src="https://raw.githubusercontent.com/Luciano2018/RetroPieBios/master/logov3.png" alt="Raspberry Pi Buenos Aires" width="400" height="500"><img src="https://github.com/Luciano2018/LudOS-Bios/blob/main/LudOS.png" alt="Raspberry Pi Buenos Aires" width="400" height="500">
+<img src="https://raw.githubusercontent.com/PiBsAs/RetroPieBios/master/logov3.png" alt="Raspberry Pi Buenos Aires" width="400" height="500"><img src="https://github.com/PiBsAs/LudOS-Bios/blob/main/LudOS.png" alt="Raspberry Pi Buenos Aires" width="400" height="500">
 </p>
 
 
@@ -27,24 +27,24 @@ Password: `ludos`
 
 Type:
 ```
-wget -c https://raw.githubusercontent.com/Luciano2018/LudOS-Bios/main/LudOS_Bios.sh && sh LudOS_Bios.sh
+wget -c https://raw.githubusercontent.com/PiBsAs/LudOS-Bios/main/LudOS_Bios.sh && sh LudOS_Bios.sh
 ```
 
 # PC:
 
 Type:
 ```
-wget -c https://raw.githubusercontent.com/Luciano2018/LudOS-Bios/main/PC.sh && sh PC.sh
+wget -c https://raw.githubusercontent.com/PiBsAs/LudOS-Bios/main/PC.sh && sh PC.sh
 ```
 NOTE for PC Users, you can't just clone or download this repo like a zip file, because you will be missing 2 big bios needed for MelonDS, that are getting with the easy install Script from archive.org
 
 <h1 align="center"> Invite a Coffee</h1>
 <p align="center">
 <a href="https://www.paypal.com/paypalme/RaspberryPiBsAs">
-<img src="https://raw.githubusercontent.com/Luciano2018/MiPiTV/master/Paypal_2014_logo.png" alt="Invite a Coffee" width="40" height="50">
+<img src="https://raw.githubusercontent.com/PiBsAs/MiPiTV/master/Paypal_2014_logo.png" alt="Invite a Coffee" width="40" height="50">
 </a>
 <a href="https://link.mercadopago.com.ar/raspberrypibsas">
-<img src="https://raw.githubusercontent.com/Luciano2018/MiPiTV/master/MercadoPago.png" alt="Invite a Coffee" width="40" height="50">
+<img src="https://raw.githubusercontent.com/PiBsAs/MiPiTV/master/MercadoPago.png" alt="Invite a Coffee" width="40" height="50">
 </a>
 </p>
 
