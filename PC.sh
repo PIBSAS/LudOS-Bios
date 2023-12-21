@@ -1,6 +1,6 @@
 #!/bin/bash
 echo "Removing all Bios, if are present"
-RUTA=https://github.com/Luciano2018/LudOS-Bios/blob/main/
+RUTA=https://github.com/PIBSAS/LudOS-Bios/blob/main/
 RUTA_ARCH=https://archive.org/download/RaspberryPiBuenosAiresLudOSBios/
 echo
 rm "system/5200.rom"
@@ -457,7 +457,7 @@ wget -c "${RUTA}Databases/msxromdb.xml" -P "system/Databases/"
 wget -c "${RUTA}Databases/msxsysromdb.xml" -P "system/Databases/"
 wget -c "${RUTA}Databases/segadb.xml" -P "system/Databases/"
 wget -c "${RUTA}Databases/svidb.xml" -P "system/Databases/"
-wget -c "https://github.com/Luciano2018/LudOS-Bios/raw/main/Machines.zip" -P "system/"
+wget -c "https://github.com/PIBSAS/LudOS-Bios/raw/main/Machines.zip" -P "system/"
 unzip system/Machines.zip -d system/
 rm system/Machines.zip
 rm LudOS_Bios_PC.sh
