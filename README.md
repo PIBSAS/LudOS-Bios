@@ -1,4 +1,4 @@
-#                                  <h1 align="center"> LudOS Bios 2022</h1>
+#                                  <h1 align="center"> LudOS Bios 2023</h1>
 <p align="center">
   Las Bios Correctas y necesarias para LudOS.
   The right and needed Bios for LudOS. 
@@ -34,7 +34,7 @@ wget -c https://raw.githubusercontent.com/Luciano2018/LudOS-Bios/main/LudOS_Bios
 
 Type:
 ```
-wget -c https://raw.githubusercontent.com/Luciano2018/LudOS-Bios/main/LudOS_Bios_PC.sh && sh LudOS_Bios_PC.sh
+wget -c https://raw.githubusercontent.com/Luciano2018/LudOS-Bios/main/PC.sh && sh PC.sh
 ```
 NOTE for PC Users, you can't just clone or download this repo like a zip file, because you will be missing 2 big bios needed for MelonDS, that are getting with the easy install Script from archive.org
 
