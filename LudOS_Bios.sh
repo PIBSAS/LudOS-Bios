@@ -1,4 +1,11 @@
 #!/bin/bash
+
+###########################################################################
+# Repositorio: LudOS-Bios 2024
+# Por: Raspberry Pi Buenos Aires ("https://sites.google.com/view/raspberrypibuenosaires/)
+# License: http://creativecommons.org/licenses/by-sa/4.0/
+###########################################################################
+
 echo "Removing all Bios, if are present"
 RUTA=https://github.com/PIBSAS/LudOS-Bios/blob/main/
 echo
