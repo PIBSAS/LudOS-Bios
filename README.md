@@ -10,7 +10,7 @@
 
 # Instalacion fácil-Easy Install:
 
-Conectammos LudOS a Wifi o Ethernet, nos fijamos su IP, activamos SSH e iniciamos sesión desde otro dispositivo:
+Conectamos LudOS a Wifi o Ethernet, nos fijamos su IP, activamos SSH e iniciamos sesión desde otro dispositivo:
 We need connect LudOS to Wifi or Ethernet, check the assigned IP, turn on SSH and login with other device:
 - PC([Putty](https://www.putty.org/))
 - Smartphone([ConnectBot](https://play.google.com/store/apps/details?id=org.connectbot&hl=es&gl=US))
