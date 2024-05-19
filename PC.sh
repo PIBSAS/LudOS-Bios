@@ -6,7 +6,7 @@ echo "Removing all Bios, if are present"
 # License: http://creativecommons.org/licenses/by-sa/4.0/
 ###########################################################################
 RUTA=https://github.com/PIBSAS/LudOS-Bios/blob/main/
-RUTA_ARCH=https://archive.org/download/RaspberryPiBuenosAiresLudOSBios/
+RUTA_ARCH="https://archive.org/download/bios_batocera/BatoceraV39Bios/bios/"
 echo
 rm "system/5200.rom"
 rm "system/7800 BIOS (U).rom"
