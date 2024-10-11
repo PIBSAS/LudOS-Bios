@@ -49,7 +49,7 @@ NOTE for PC Users, you can't just clone or download this repo like a zip file, b
 </p>
 
 # Tutorial: Retroconsolas
-https://sites.google.com/view/raspberrypibuenosaires/retro-consolas
+https://sites.google.com/view/lucianostech/retro-consolas
 
 # Tutorial: Crea tu propio Joystick Arcade con Pro-Micro mejor que Zero Delay
-https://sites.google.com/view/raspberrypibuenosaires/joystick-arcade
+https://sites.google.com/view/lucianostech/joystick-arcade
